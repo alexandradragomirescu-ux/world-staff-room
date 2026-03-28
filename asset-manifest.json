@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/world-staff-room/static/js/main.e8b52adc.js",
+    "main.js": "/world-staff-room/static/js/main.23c525fb.js",
     "index.html": "/world-staff-room/index.html",
-    "main.e8b52adc.js.map": "/world-staff-room/static/js/main.e8b52adc.js.map"
+    "main.23c525fb.js.map": "/world-staff-room/static/js/main.23c525fb.js.map"
   },
   "entrypoints": [
-    "static/js/main.e8b52adc.js"
+    "static/js/main.23c525fb.js"
   ]
 }
